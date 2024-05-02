@@ -1,4 +1,4 @@
-# prueba1
+# Earth Observation Services
 
-hola
+This repository is to track European Earth Observation services for monitoring environment.
 
